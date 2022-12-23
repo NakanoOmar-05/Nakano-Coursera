@@ -1,2 +1,2 @@
-# Nakano-Coursera
-Coursera test 1.0 repository
+# NakanoPage
+Coursera page of Nakano
